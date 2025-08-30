@@ -1,0 +1,5 @@
+# requirements.txt for Django story generator app
+Django>=4.2
+langchain
+langchain-google-genai
+google-generativeai
